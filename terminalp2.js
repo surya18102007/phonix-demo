@@ -14,3 +14,14 @@
 // git push origin main 
 // if do this one time the following step so we don't need to do git push origin main many times.
 // git push -u orgin main
+// some basic commands fo branch:-
+
+// git branch (to check branch)
+// git branch -M main(to rename branch)
+// git checkout <branch name >(go to branch )
+// git checkout -b <new branch name>(to create new branch)
+// git branch -d <branch name>(to delete branch)
+// merging code:-
+
+// git diff <branch name>(to compare commits files braches or more.)
+// git merge<branch name>.
